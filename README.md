@@ -128,10 +128,11 @@ git push
 
 ## 🔒 Environment Variables (Optional)
 
-If you have a `.env` file (e.g., for API keys):
+
 
 ```env
-REACT_APP_API_URL=https://your-api.com
+REACT_APP_API_URL=https://your-api.com  not useing right now
+
 ```
 
 In Vercel:
